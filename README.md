@@ -1,7 +1,7 @@
 # Welcome to my AWS Portfolio 💼📋
 
 ## Overview
-<style>
+<!--<style>
     .container {
         display: flex;
         align-items: center;
@@ -19,13 +19,13 @@
         font-size: 20px;
         padding-left: 20px;
     }
-</style>
+</style>-->
 
-<div class="container">
-    <div class="image">
-        <img class="repo" src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg">
+<div class="container" style="display: flex; align-items: center; justify-content: center;">
+    <div class="image" style="flex-basis: 40%">
+        <img class="repo" style="max-width: 100%;" src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg">
     </div>
-    <div class="text">
+    <div class="text" style="padding-left: 20px;">
         <p>Paris is one of the most beautiful cities in France. (Test)</p>
     </div>
 </div>
