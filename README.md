@@ -52,7 +52,7 @@ S3
 ---
 
 ## AWS Services ☁️
-In this repository I will provide example for the following AWS services:\
+In this repository I will provide examples for the following AWS services:\
 ⚡️ Lambda\
 ⚡️ S3\
 ⚡️ API Gateway\
@@ -68,17 +68,17 @@ If you want to learn more about AWS, please: **[click here](https://www.amazon.c
 ## Prerequisites 🔧
 
 I designed this portfolio to be as easy to use as possible, however there are some prerequisites to be able to deploy the templates:
-1. Having access to an AWS accounts with permissions for IAM and deployment.
+1. Having access to an AWS account with permissions for IAM and deployment.
 2. Installing the AWS [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
 ---
 
 ## AWS Deployment 📦
 
-Once you finish your setup. You need to put your website **online**!
+Each one of the examples provided in this repository comes with its **own instructions** on how to deploy it to your AWS account!
 
 ---
 ## Other technologies used 🛠️
-Other than the AWS infrastructure and database I used the following technologies to develop my projects:
+Other than the AWS infrastructure I used the following technologies to develop my projects:
 - [Python 3](https://docs.python.org/3/)
 - [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
