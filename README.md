@@ -1,8 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 # Welcome to my AWS Portfolio 💼
 
 ## Overview 📄
