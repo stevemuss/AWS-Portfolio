@@ -1,3 +1,8 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 # Welcome to my AWS Portfolio 💼
 
 ## Overview 📄
@@ -12,7 +17,7 @@ Throughout my professional career I have acquired an analytical capacity oriente
 
 ### Software and programming
 Some of the programming languages, frameworks and general software I've used throughout my career are:
-<table style="width:100%;">
+<table>
     <tr>
         <td>R</td>
         <td>Scala</td>
