@@ -2,11 +2,9 @@
 
 ## Overview 📄
 Hello and welcome to my AWS portfolio, my name is Steven Rivera, and the purpose of this repository is to provide some examples of my AWS architecture and development skills/knowledge, if you want to know more about me or get in touch, check out my [LinkedIn profile](https://www.linkedin.com/in/steven-rivera-granados/?locale=en_US).
-<div class="container">
-    <div class="image">
-        <img class="repo" style="max-width: 300px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="src/images/aws_cloud.png">
-    </div>
-</div>
+<p align="center">
+  <img style="max-width: 300px;" src="src/images/aws_cloud.png" />
+</p>
 
 ### About me 
 
